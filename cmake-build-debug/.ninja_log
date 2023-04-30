@@ -1,0 +1,15 @@
+# ninja log v5
+0	1381	7045322624801447	CMakeFiles/calculadora.dir/main.cpp.obj	184da051d107cc1c
+1383	2018	7045322631122477	calculadora.exe	70ef2c4fa306e7b2
+4	430	7045323121752761	CMakeFiles/calculadora.dir/main.cpp.obj	184da051d107cc1c
+431	566	7045323123078252	calculadora.exe	70ef2c4fa306e7b2
+4	412	7045323795588239	CMakeFiles/calculadora.dir/main.cpp.obj	184da051d107cc1c
+412	528	7045323796714176	calculadora.exe	70ef2c4fa306e7b2
+5	416	7045324296137856	CMakeFiles/calculadora.dir/main.cpp.obj	184da051d107cc1c
+417	528	7045324297211016	calculadora.exe	70ef2c4fa306e7b2
+3	404	7045324986107137	CMakeFiles/calculadora.dir/main.cpp.obj	184da051d107cc1c
+405	517	7045324987203270	calculadora.exe	70ef2c4fa306e7b2
+3	405	7045325287741169	CMakeFiles/calculadora.dir/main.cpp.obj	184da051d107cc1c
+406	516	7045325288803067	calculadora.exe	70ef2c4fa306e7b2
+3	396	7045325965906198	CMakeFiles/calculadora.dir/main.cpp.obj	184da051d107cc1c
+396	513	7045325967031839	calculadora.exe	70ef2c4fa306e7b2
